@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create SVG Icon"
+  short_description: "严格先生成 PNG 设计稿，再重建并验收为可编辑 SVG 图标"
+  default_prompt: "Use $create-svg-icon to design a cohesive SVG icon set."

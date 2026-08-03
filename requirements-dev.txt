@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Metadata validation used by scripts/validate_all.py
+PyYAML>=6.0.2,<7

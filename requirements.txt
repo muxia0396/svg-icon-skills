@@ -1,0 +1,2 @@
+# Aggregate runtime dependencies for the skill collection.
+-r skills/create-svg-icon/requirements.txt

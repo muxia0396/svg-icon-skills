@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+/.skill-test/
+
+# Local experiments and generated outputs kept outside the publishable skill bundle.
+/black-linear-icons-final/
+/blue-white-flat-icons/
+/blue-white-icons-final/
+/icons/
+/outputs/
+/references/
+/tools/
+/comparison-night.png
+/manifest.json
+/preview*.html
+/preview*.png
+/设计师必看的图标（icon）设计指南.md

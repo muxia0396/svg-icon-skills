@@ -1,0 +1,4 @@
+interface:
+  display_name: "PNG to SVG"
+  short_description: "将 PNG 图标重建为干净、透明且可编辑的 SVG 矢量文件"
+  default_prompt: "Use $png-to-svg to convert this PNG into a clean editable SVG."
